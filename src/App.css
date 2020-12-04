@@ -1,3 +1,18 @@
+.editor-wrapper {
+  width: 512px;
+}
+
+.editor-wrapper #editor {
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: left;
+}
+
+#editor * {
+  text-align: left;
+}
+
 .App {
   text-align: center;
 }
